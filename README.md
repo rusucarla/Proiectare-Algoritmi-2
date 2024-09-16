@@ -1,4 +1,4 @@
-# TEMA 2 PCOM
+# TEMA 2 PA
 
 ## 1. Numarare
 
